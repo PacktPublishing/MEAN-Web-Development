@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title><%= title %></title>
+	<base href="/">
+</head>
+<body>
+	<mean-app>
+		<h1>Loading...</h1>
+	</mean-app>
+	
+	<script type="text/javascript">
+		window.user = <%- user || 'null' %>;
+	</script>
+	
+	<script src="build/polyfills.js"></script>
+	<script src="build/vendor.js"></script>
+	<script src="build/bootstrap.js"></script>
+</body>
+</html>
