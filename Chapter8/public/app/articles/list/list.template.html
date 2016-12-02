@@ -1,0 +1,13 @@
+<h1>Articles</h1>
+<ul>
+	<li *ngFor="let article of articles">
+		<a [routerLink]="['/articles', article._id]">{{article.title}}</a>
+		<br>
+		<small>{{article.created}}/{{article.creator.fullName}}</small>
+		<p>{{article.content}}</p>
+	</li>
+</ul>
+
+<div *ngIf="articles && articles.length === 0">
+	No articles yet, why don't you <a [routerLink]="['/articles/create']">create one</a>? 
+</div>

@@ -1,0 +1,20 @@
+<h1>New Article</h1>
+<form (ngSubmit)="create()" novalidate>
+	<div>
+		<label for="title">Title</label>
+		<div>
+			<input type="text" required [(ngModel)]="article.title" name="title" placeholder="Title">
+		</div>
+	</div>
+	<div>
+		<label for="content">Content</label>
+		<div>
+			<textarea type="text" required cols="30" rows="10" [(ngModel)]="article.content" name="content" placeholder="Content"></textarea>
+		</div>
+	</div>
+	<div>
+		<input type="submit">
+	</div>
+ 
+	<strong id="error">{{errorMessage}}</strong>
+</form>
