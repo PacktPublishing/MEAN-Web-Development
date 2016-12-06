@@ -20,13 +20,13 @@ exports.sayHello = function() {
 
 
 
-##Related F# Products:
+##Related MEAN Products:
 * [MEAN Web Development](https://www.packtpub.com/web-development/mean-web-development?utm_source=github&utm_campaign=9781783983285&utm_medium=repository)
 * [Web Application Development with MEAN](https://www.packtpub.com/application-development/web-application-development-mean?utm_source=github&utm_campaign=9781787121720&utm_medium=repository)
 * [Building an E-Commerce Application with MEAN](https://www.packtpub.com/web-development/building-e-commerce-application-mean?utm_source=github&utm_campaign=9781785286551&utm_medium=repository)
 
 
-####NOTE: Chapter4 does not contain any code.
+####NOTE: Chapter 1 and 4 does not contain any code.
 
 
 
