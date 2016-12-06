@@ -1,4 +1,4 @@
-#MEAN Web Development - Secong Edition
+#MEAN Web Development - Second Edition
 This is the code repository for [MEAN Web Development - Second Edition](https://www.packtpub.com/web-development/mean-web-development-second-edition?utm_source=github&utm_campaign=9781785886300&utm_medium=repository) By Packt. It contains all the supporting project files necessary to work through the book from start to finish.
 
 ##Instructions and Navigation
@@ -18,12 +18,6 @@ exports.sayHello = function() {
 
 ```
 
-##Software and Hardware List
-
-| Chapter  | Software required                             | OS required         | 
-| -------- | --------------------------------------------- | ------------------- |
-| 1 to 13  | LINQPad (http://www.linqpad.net/)             | Windows/ MAC/ Linux |
-| 1 to 13  | .NET Fiddle website https://dotnetfiddle.net/ | Windows/ MAC/ Linux |
 
 
 ##Related F# Products:
@@ -32,7 +26,7 @@ exports.sayHello = function() {
 * [Building an E-Commerce Application with MEAN](https://www.packtpub.com/web-development/building-e-commerce-application-mean?utm_source=github&utm_campaign=9781785286551&utm_medium=repository)
 
 
-###NOTE: Chapter4 does not contain any code.
+####NOTE: Chapter4 does not contain any code.
 
 
 
