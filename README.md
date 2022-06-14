@@ -1,7 +1,3 @@
-## [Get this title for $10 on Packt's Spring Sale](https://www.packt.com/B05071?utm_source=github&utm_medium=packt-github-repo&utm_campaign=spring_10_dollar_2022)
------
-For a limited period, all eBooks and Videos are only $10. All the practical content you need \- by developers, for developers
-
 # MEAN Web Development - Second Edition
 This is the code repository for [MEAN Web Development - Second Edition](https://www.packtpub.com/web-development/mean-web-development-second-edition?utm_source=github&utm_campaign=9781785886300&utm_medium=repository) By Packt. It contains all the supporting project files necessary to work through the book from start to finish.
 
